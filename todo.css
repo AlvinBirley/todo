@@ -1,0 +1,48 @@
+.one {
+    display:flex;
+    justify-content: center;
+
+}
+.two {
+    border: solid #3882F6;
+    border-radius: 20px;
+    width: 850px;
+    height: 150px;
+}
+
+.three {
+    display:flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-top: -30px;
+}
+
+.four {
+    display:flex;
+    justify-content: center;
+}
+
+
+
+#five {
+    width: 850px;
+    /*display:flex;
+    /*justify-content: center;
+   /* align-items: center;*/
+    margin-top: 30px;
+}
+
+#six {
+      display:flex;
+    justify-content: center;
+   align-items: center;
+}
+
+input[type="text"], textarea {
+ background-color : #d2e9f9; 
+ width: 200px;;
+}
+
+.strike {
+    text-decoration: line-through;
+  }
